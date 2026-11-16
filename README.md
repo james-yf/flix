@@ -15,7 +15,7 @@ A flappy bird clone.
 - how to implement gravity affected player movement
 - how parallax scrolling backgrounds works
 - how to use masks for pixel-perfect collision detection
-- how to use trig functions (sin) to make a smooth bobbing animation
+- how to use the sine function to make a smooth bobbing animation
 
 # How to run:
 1. `pip install pygame`
