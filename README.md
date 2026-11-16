@@ -20,7 +20,7 @@ A flappy bird clone.
 # How to run:
 1. `pip install pygame`
 
-2. `python/main.py`
+2. `python main.py` or `python3 main.py` if that doesn't work
 
 # Controls
 - `SPACE` to start/flap
